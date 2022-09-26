@@ -58,3 +58,5 @@ const body = [
 
 4. head.id === body.objectKey.
 5. Tailwind css is used for styling.
+
+![Alt text](https://raw.githubusercontent.com/LearnAny/DynamicTable/main/src/dynamic_table.png?raw=true "Title")
