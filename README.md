@@ -2,10 +2,10 @@
 Dynamic table component in React js
 
 # How to use
-1.Import this component into your component.
-2.Pass header and body JSON data as a props.
-3.Example of props data 
-const head = [
+1. Import this component into your component.
+2. Pass header and body JSON data as a props.
+3. Example of props data 
+<pre> const head = [
     {
         "id" : "unique_column_one",
         "label": "column label one",
@@ -54,7 +54,7 @@ const body = [
       "unique_column_four" : "Fourth row value four"
   }
 ]
+</pre> 
 
-4.head.id === body.objectKey.
-5.Tailwind css is used for styling.
-6.img
+4. head.id === body.objectKey.
+5. Tailwind css is used for styling.
